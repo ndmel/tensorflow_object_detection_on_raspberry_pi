@@ -55,5 +55,5 @@ cd ../
 To launch object detection model on movidius, download `Object_detection_mobilenet_movidius.py` script, change the same parameters as before and run script.
 
 ```
-python3 Object_detection_mobilenet_movidius.py --usbcam (should change script to process args)
+python3 Object_detection_mobilenet_movidius.py --usbcam
 ```
